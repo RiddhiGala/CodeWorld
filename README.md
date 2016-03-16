@@ -22,6 +22,6 @@ div.newData{height:1000px; background:#ffff00; margin:10px 0px; font-size:xx-lar
 </style>
 </head>
 <body>
-<div id="dvmain"><div style='height:1000px; background:#00f000; margin:10px 0px;'></div> <%--<img src="Images/Jellyfish.jpg"></div>--%>
+<div id="dvmain"><div style='height:1000px; background:#00f000; margin:10px 0px;'>
 </div></body>
 </html>
